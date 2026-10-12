@@ -1,4 +1,4 @@
-# 🐉 Lucky Harvey — Craftsmanship Series Silver Dragon (LH/S/DN-32)
+#  Lucky Harvey — Craftsmanship Series Silver Dragon (LH/S/DN-32)
 
 > **Ultra-Luxury Single-Page Product Launch Showcase**  
 
