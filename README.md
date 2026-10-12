@@ -1,9 +1,6 @@
 # 🐉 Lucky Harvey — Craftsmanship Series Silver Dragon (LH/S/DN-32)
 
 > **Ultra-Luxury Single-Page Product Launch Showcase**  
-> Inspired by Apple’s flagship product presentation aesthetics — high-contrast dark mode, expansive negative space, cinematic canvas animation engines, and bespoke haute horlogerie typography.
-
-🔗 **Live Deployment**: [https://samueljohn369.github.io/lucky-harvey-silver-dragon/](https://samueljohn369.github.io/lucky-harvey-silver-dragon/)
 
 ---
 
